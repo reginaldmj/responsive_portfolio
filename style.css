@@ -19,7 +19,7 @@ header {
 
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: flex-start;
   align-items: center;
 }
 
@@ -29,7 +29,8 @@ header {
 }
 
 .nav-links li {
-  margin-left: 20px;
+  margin-left: 80px;
+  
 }
 
 .nav-links a {
